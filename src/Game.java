@@ -1,6 +1,5 @@
 public class Game implements Render{
 
-
     private Thing[][] map;
     private double fps = 0;
     private long frame = 0L;
@@ -29,6 +28,9 @@ public class Game implements Render{
     }
 
     public void print() {
+
+        Window.nettoyer();
+
         for(int i = 0; i<27; i++) {
             for(int y = 0; y<48; y++) {
                 Window.drawTexture(y*40, i*40, 40, 40, 0, Settings.texturesGlobal.get("black"));
