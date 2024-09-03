@@ -1,0 +1,29 @@
+//name/id/type/value/afffor/affdex/afffoi/rarety
+
+Broken sword;2;3;23;2;2;0;1
+Stick;7;3;20;1;0;0;1
+
+Spear;8;3;67;1;3;0;2
+Sword;5;3;78;2;1;0;2
+Greatsword;10;3;101;2;1;0;2
+Magic staff;21;3;61;1;0;2;2
+
+
+Magic staff of Amarlor;13;3;67;1;0;3;3
+Greatsword of Zodd;12;3;109;3;1;0;3
+Niolix's Halberd;11;3;112;3;1;0;3
+
+Nameless sword;1;3;109;1;4;0;4
+DragonSlayer sword;3;3;137;3;4;1;4
+Blade of Rhea;4;3;152;2;3;5;4
+Stick of the Truth;6;3;119;1;0;5;4
+Spear of chaos;9;3;117;2;4;4;
+
+Soul shard;14;4;50;1
+Soul part;15;4;200;1
+Soul chunk;16;4;1000;2
+Soul quarter;17;4;5000;2
+Soul half;18;4;15000;3
+Soul of creature;19;4;50000;3
+Self Soul;20;4;1000000;4
+
